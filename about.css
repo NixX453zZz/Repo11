@@ -6,3 +6,9 @@
     margin: 160px 0px 0px 50px;
     float: left;
 }
+
+a{
+    float: left;
+    display: inline;
+    width: 100%;
+}
